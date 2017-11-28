@@ -3,7 +3,7 @@ package paxsz.com.androidactivity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class NormalAcitvity extends AppCompatActivity {
+public class NormalActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -3,7 +3,7 @@ package paxsz.com.androidactivity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class DialogAcitvity extends AppCompatActivity {
+public class DialogActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
